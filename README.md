@@ -20,7 +20,7 @@ Observed → Problem → Ship Instead → Tradeoff
 
 This teardown is based on testing the app, reading Play Store reviews, studying competitors, and analyzing user flows during May 2026.
 
-## Files and Link
+## Files 
 
 - Subspace_Product_Teardown_Priyanka_Yadav.docx
-- https://github.com/Priynka232/subspace-product-teardown
+
